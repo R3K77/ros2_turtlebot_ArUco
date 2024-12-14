@@ -52,4 +52,9 @@ ros2 run camera_subscriber point_motion_node
 ### Screens
 ![obraz](https://github.com/user-attachments/assets/98b151cb-e4f6-46ae-a5e9-dd44eec2df34)
 ![obraz](https://github.com/user-attachments/assets/5f13ac4b-7e5c-4edc-a8c7-3c8c33b973bd)
+![FilmbeztytuuWykonanozapomocClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ef4f21cc-e913-49fb-bff2-2d4478a71785)
+
+
+
+
 
