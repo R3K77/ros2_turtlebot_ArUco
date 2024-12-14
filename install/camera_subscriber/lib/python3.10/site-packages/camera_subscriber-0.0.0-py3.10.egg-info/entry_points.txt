@@ -1,0 +1,5 @@
+[console_scripts]
+camera_node = camera_subscriber.camera_node:main
+motion_node = camera_subscriber.motion_node:main
+point_motion_node = camera_subscriber.point_motion_node:main
+

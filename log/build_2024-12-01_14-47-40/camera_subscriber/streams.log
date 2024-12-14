@@ -1,0 +1,24 @@
+[0.621s] Invoking command in '/home/student/ros2_ws_ostatnie/src/camera_subscriber': PYTHONPATH=/home/student/ros2_ws_ostatnie/build/camera_subscriber/prefix_override:/home/student/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/student/ros2_ws_ostatnie/build/camera_subscriber/build install --record /home/student/ros2_ws_ostatnie/build/camera_subscriber/install.log --single-version-externally-managed install_data
+[0.844s] running egg_info
+[0.845s] writing ../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[0.846s] writing dependency_links to ../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[0.846s] writing entry points to ../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[0.847s] writing requirements to ../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[0.847s] writing top-level names to ../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[0.849s] reading manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.850s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.851s] running build
+[0.851s] running build_py
+[0.851s] copying camera_subscriber/camera_node.py -> /home/student/ros2_ws_ostatnie/build/camera_subscriber/build/lib/camera_subscriber
+[0.852s] running install
+[0.852s] running install_lib
+[0.853s] copying /home/student/ros2_ws_ostatnie/build/camera_subscriber/build/lib/camera_subscriber/camera_node.py -> /home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.854s] byte-compiling /home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py to camera_node.cpython-310.pyc
+[0.855s] running install_data
+[0.855s] running install_egg_info
+[0.861s] removing '/home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[0.861s] Copying ../../build/camera_subscriber/camera_subscriber.egg-info to /home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[0.861s] running install_scripts
+[0.883s] Installing camera_node script to /home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/camera_subscriber
+[0.883s] writing list of installed files to '/home/student/ros2_ws_ostatnie/build/camera_subscriber/install.log'
+[0.914s] Invoked command in '/home/student/ros2_ws_ostatnie/src/camera_subscriber' returned '0': PYTHONPATH=/home/student/ros2_ws_ostatnie/build/camera_subscriber/prefix_override:/home/student/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ros2_ws_ostatnie/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/student/ros2_ws_ostatnie/build/camera_subscriber/build install --record /home/student/ros2_ws_ostatnie/build/camera_subscriber/install.log --single-version-externally-managed install_data
